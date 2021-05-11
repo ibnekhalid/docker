@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Deployment Guide/bin/Release/net5.0
+/Deployment Guide/obj/Release/net5.0
+/Deployment Guide/obj
+/Deployment Guide/.vs/DeploymentGuide/v16
+/Deployment Guide/Properties/PublishProfiles
